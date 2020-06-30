@@ -2,7 +2,6 @@
 
 <!doctype html>
 
-<html>
   <title></title>
   <body>
     Meu porfifólio
